@@ -1,7 +1,7 @@
 # Etch-a-Sketch
 
-### See project live
-Etch-a-Sketch https://stlee3102.github.io/etch-a-sketch/es-index.html
+## Play Game
+https://stlee3102.github.io/etch-a-sketch/es-index.html
 
 ## Objective
 
